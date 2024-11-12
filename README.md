@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/97a18b2d-95ca-4b93-ae1f-193fe0b2acd1)# tableau
+# tableau
 
 # 1. 고객별 재구매 시기 데이터 분석 테블로 시각화
 ![히스토그램](히스토그램.png)
